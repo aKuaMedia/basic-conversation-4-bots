@@ -5,7 +5,7 @@ The purpose of this repository is to have a reusable baseline of basic conversat
 The main basic conversations that we must cover are:
 
 - Greetings and farewells.
-- Presentations.
+- Introductions.
 - Give basic "personal" information
 - Date and time information
 
