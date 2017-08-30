@@ -1,0 +1,2 @@
+{ "name" : "intent",
+  "main" : "./intentClass.js" }
