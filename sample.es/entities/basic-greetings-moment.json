@@ -1,0 +1,24 @@
+{
+  "type": "entity",
+  "values": [
+      {
+        "value": "dias",
+        "synonyms": [
+          "días",
+          "mañana"
+        ]
+      },
+      {
+        "value": "tardes",
+        "synonyms": [
+          "tarde"
+        ]
+      },
+      {
+        "value": "noches",
+        "synonyms": [
+          "noche"
+        ]
+      }
+    ]
+}

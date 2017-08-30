@@ -1,0 +1,22 @@
+{
+  "input": [
+        "Hey!",
+        "ey!",
+        "ey",
+        "Hola!!",
+        "Ey!!",
+        "Hey",
+        "Buenas!",
+        "buenos @basic-greetings-moment",
+        "buenas @basic-greetings-moment",
+        "buena @basic-greetings-moment",
+        "buen @basic-greetings-moment"
+    ],
+  "output": [
+            "Hey!!",
+            "hey ho!!",
+            "Saludos",
+            "Hola!!",
+            "Buenas!!"
+    ]
+}
