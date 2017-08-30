@@ -1,0 +1,39 @@
+{
+  "name": "basic-conversation-4-bots",
+  "version": "0.0.1",
+  "description": "Training sets for basic conversation skills and generators for different chatbots tools",
+  "main": "app.js",
+  "scripts": {
+    "test": "./node_modules/.bin/jasmine-node spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://joseluisgv@github.com/aKuaMedia/basic-conversation-4-bots.git"
+  },
+  "keywords": [
+    "chatbots",
+    "conversational-bots",
+    "conversational-agents",
+    "baseline",
+    "chatbots",
+    "generator",
+    "LUIS generator",
+    "LUIS",
+    "wit.ai",
+    "wit.ai generator",
+    "api.ai",
+    "api.ai generator"
+  ],
+  "author": "José Luis Gallego Val (joseluisgv)",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/aKuaMedia/basic-conversation-4-bots/issues"
+  },
+  "homepage": "https://github.com/aKuaMedia/basic-conversation-4-bots#readme",
+  "devDependencies": {
+    "jasmine": "^2.8.0"
+  },
+  "dependencies": {
+    "jasmine-node": "^1.14.5"
+  }
+}
